@@ -1,0 +1,33 @@
+{
+  "name": "Fnaf Source",
+  "identifier": "com.scottgames",
+  "subtitle": "A source for Fnaf",
+  "description": "Sourse For All Fnaf Games",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://scottgames.com",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.scottgames.fnaf2",
+    "com.example.anotherapp"
+  ],
+  "apps": [
+    {
+      "name": "FNAF 2 @YJK.A",
+      "bundleIdentifier": "com.scottgames.fnaf2",
+      "developerName": "Scott Cawthon",
+      "subtitle": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://ia902201.us.archive.org/11/items/five-nights-at-freddys-2-2.0.4/icon.jpg",
+      "tintColor": "#F54F32",
+      "versions": [
+        {
+          "version": "2.07",
+          "date": "2020-11-8",
+          "downloadURL": "https://archive.org/download/fnaf-2-yjk.-a/FNAF%202%20%40YJK.A_2.0.4_1662945218.ipa",
+        }
+      ],
+    }
+  ],
+  "news": [],
+}
